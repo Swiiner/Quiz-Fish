@@ -2,4 +2,4 @@ Projet de fin de premier trimestre en deuxième année, fait en C++ avec la libr
 
 6 programmeurs et 4 graphistes pendant 2 semaines. 
 
-Tout se joue au clic. 	
+Tout se joue au clic. 		
